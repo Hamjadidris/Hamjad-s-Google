@@ -157,6 +157,6 @@
 
  @media (max-width:600px) {
     .searchbox span{
-        width: 90%;
+        width: 80vw;
     }
  }
